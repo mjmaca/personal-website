@@ -154,7 +154,7 @@ export default function Portfolio() {
                 <div className="w-80 h-80 rounded-full bg-gradient-to-br from-primary to-accent p-1 hover:scale-105 transition-transform duration-300">
                   <div className="w-full h-full rounded-full bg-card flex items-center justify-center">
                     <img
-                      src="/professional-developer-avatar.png"
+                      src="/professional-developer-avatar.jpg"
                       alt="Michael George Maca"
                       className="w-72 h-72 rounded-full object-cover"
                     />
